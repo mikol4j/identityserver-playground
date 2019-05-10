@@ -1,0 +1,6 @@
+quickstart/src/IdentityServer/bin
+quickstart/src/IdentityServer/obj
+quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide-wal
+quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide-shm
+quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide
+quickstart/.vs/Quickstart/v15/Server/sqlite3/db.lock
