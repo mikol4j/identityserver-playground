@@ -1,5 +1,8 @@
+quickstart/.vs
 quickstart/src/IdentityServer/bin
 quickstart/src/IdentityServer/obj
+quickstart/src/Api/bin
+quickstart/src/Api/obj
 quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide-wal
 quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide-shm
 quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide

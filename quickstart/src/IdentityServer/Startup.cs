@@ -53,5 +53,6 @@ namespace IdentityServer
             // uncomment, if you wan to add an MVC-based UI
             //app.UseMvcWithDefaultRoute();
         }
+
     }
 }
