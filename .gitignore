@@ -3,6 +3,8 @@ quickstart/src/IdentityServer/bin
 quickstart/src/IdentityServer/obj
 quickstart/src/Api/bin
 quickstart/src/Api/obj
+quickstart/src/Client/bin
+quickstart/src/Client/obj
 quickstart/src/Client - ClientCredentials/bin
 quickstart/src/Client - ClientCredentials/obj
 quickstart/src/Client - ResourceOwnerPassword/bin

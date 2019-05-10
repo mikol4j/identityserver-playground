@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "src\Ident
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "src\Api\Api.csproj", "{559141DF-036F-4732-BC53-0DCDE3D64742}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client - ClientCredentials", "src\Client\Client - ClientCredentials.csproj", "{EB3D2565-410B-4503-BA00-7E0A4F843C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client - ClientCredentials", "src\Client - ClientCredentials\Client - ClientCredentials.csproj", "{EB3D2565-410B-4503-BA00-7E0A4F843C21}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client - ResourceOwnerPassword", "src\Client - ResourceOwnerPassword\Client - ResourceOwnerPassword.csproj", "{F4DA3737-6DC3-49ED-A99F-B35964016A10}"
 EndProject
