@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B16BFA59-E6C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "src\IdentityServer\IdentityServer.csproj", "{8BCC2517-BF6F-4C70-A869-395B133E3C6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "src\Api\Api.csproj", "{559141DF-036F-4732-BC53-0DCDE3D64742}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "src\Api\Api.csproj", "{559141DF-036F-4732-BC53-0DCDE3D64742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "src\Client\Client.csproj", "{EB3D2565-410B-4503-BA00-7E0A4F843C21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,12 +45,26 @@ Global
 		{559141DF-036F-4732-BC53-0DCDE3D64742}.Release|x64.Build.0 = Release|Any CPU
 		{559141DF-036F-4732-BC53-0DCDE3D64742}.Release|x86.ActiveCfg = Release|Any CPU
 		{559141DF-036F-4732-BC53-0DCDE3D64742}.Release|x86.Build.0 = Release|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Debug|x64.Build.0 = Debug|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Debug|x86.Build.0 = Debug|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Release|x64.ActiveCfg = Release|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Release|x64.Build.0 = Release|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Release|x86.ActiveCfg = Release|Any CPU
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8BCC2517-BF6F-4C70-A869-395B133E3C6A} = {B16BFA59-E6C8-42E2-83F7-3CB68A0E5612}
+		{559141DF-036F-4732-BC53-0DCDE3D64742} = {B16BFA59-E6C8-42E2-83F7-3CB68A0E5612}
+		{EB3D2565-410B-4503-BA00-7E0A4F843C21} = {B16BFA59-E6C8-42E2-83F7-3CB68A0E5612}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FCA9A504-DC98-45DC-9C73-B4277C13DAB3}
